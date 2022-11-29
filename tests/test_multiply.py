@@ -1,4 +1,4 @@
-from pythoncalculator import multiply
+from pythoncalculator.multiply import multiply
 
 
 def test_multiply():
